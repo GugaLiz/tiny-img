@@ -1,0 +1,16 @@
+{
+  "name": "tiny",
+  "version": "0.0.1",
+  "description": "压缩图片",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "4.1.0",
+    "figures": "3.2.0",
+    "ora": "4.0.5",
+    "trample": "0.2.3"
+  }
+}
